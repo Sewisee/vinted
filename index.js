@@ -234,7 +234,7 @@ client.on('interactionCreate', (interaction) => {
     }
 });
 
-client.login(config.token);
+client.login(process.env.TOKEN);
 
 function getReputationStars(reputationPercent) {
     var reputCalc = Math.round(reputationPercent / 0.2);
