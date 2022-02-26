@@ -1,0 +1,17 @@
+{
+  "subscriptions": [
+    {
+      "id": "wfohsa",
+      "url": "https://www.vinted.fr/vetements?search_text=dunk+low",
+      "channelID": "946795333499899924"
+    },
+    {
+      "id": "2luyw",
+      "url": "https://www.vinted.fr/vetements?search_text=jordan+mid",
+      "channelID": "946795333499899924"
+    }
+  ],
+  "last_item_ts_wfohsa": 1645825987000,
+  "last_item_ts_2luyw": 1645826497000,
+  "is_first_sync": false
+}
